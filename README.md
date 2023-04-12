@@ -1,3 +1,3 @@
 # Projetos-de-design
 Projetos que eu desenvolvi com o Canva
-![Preview](https://github.com/marcoslima42/calculatorInReact/blob/master/preview.png)
+![Preview](file:///D:/Alunos/Downloads/voucher%20anivers%C3%A1rio.png)
